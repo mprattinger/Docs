@@ -32,7 +32,7 @@ verwenden
 
 ### Sicherstellen, dass nur berechtigte Nutzer Zugang zu sensiblen Daten und Funktionen haben
 
-Programme sollten immer mit Zuganssperren programmiert werden. Zugriffe auf weitere Systeme (API, Datenbanken, ...) sollten immer im UserContext geschehen. Dadurch können Berechtigungen und sicher geprüft werden.
+Programme sollten immer mit Zuganssperren programmiert werden. Zugriffe auf weitere Systeme (API, Datenbanken, ...) sollten immer im UserContext geschehen. Dadurch können Berechtigungen sicher geprüft werden.
 
 ### Einsatz von Verschlüsselungstechniken zum Schutz von Daten
 
