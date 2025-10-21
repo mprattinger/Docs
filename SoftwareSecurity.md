@@ -64,7 +64,7 @@ Dies ist wichtig um bei bekannten Sicherheitslücken in Packeten oder Bibliothek
 
 ### Alle Benutzereingaben validieren, um sicherzustellen, dass sie den erwarteten Formaten- und Inhaltforderungen entsprechen. 
 
-SQL Injection ist immer noch häufiger Angriffsvektor. Der Entwickler sollte immer davon ausgehen, dass den Eingaben der Nutzer nicht zu trauen ist. Daher ist jede eingabe zu prüfen bevor damit weiter gearbeitet wird.
+SQL Injection ist immer noch häufiger Angriffsvektor. Der Entwickler sollte immer davon ausgehen, dass den Eingaben der Nutzer nicht zu trauen ist. Daher ist jede Eingabe zu prüfen bevor damit weiter gearbeitet wird.
 
 ### Gut getestet (weite Verbreitung) Bibliotheken verwenden, anstatt Funktionen selbst zu entwickeln.
 
@@ -76,8 +76,7 @@ Ein Fehler soll nicht zum Absturz des Programms führen, sondern dokumentiert (L
 
 ### Nutzung von Tools zur Codeanalyse, um Schwachstellen im Code frühzeitig zu erkennen
 
-Wird der Sourcecode auf Github gehostet, kann Depe
-
+Wird der Sourcecode auf Github gehostet, kann 
 Regelmäßiges Durchführen von Penetrationstests, um Sicherheitslücken zu identifizieren und zu beheben
 
 Regelmäßiges schulen der Entwickler in sicheren Programmiertechniken und aktuellen Bedrohungen.
