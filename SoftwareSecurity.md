@@ -74,16 +74,16 @@ In den diversen Frameworks gibt es meist auch Package-Repositories von denene Bi
 
 Ein Fehler soll nicht zum Absturz des Programms führen, sondern dokumentiert (Logging) und dem User angezeigt werden. (Siehe Fehlerbehandlungsmechanismen implementieren)
 
-### Nutzung von Tools zur Codeanalyse, um Schwachstellen im Code frühzeitig zu erkennen
+### Nutzung von Tools um Schwachstellen im Code frühzeitig zu erkennen ode zu beheben
 
-Wird der Sourcecode auf Github gehostet, kann 
-Regelmäßiges Durchführen von Penetrationstests, um Sicherheitslücken zu identifizieren und zu beheben
+Wird der Sourcecode auf Github gehostet, kann mittels GitHub Dependabot Softwareabhängigkeiten (Dependencies) automatisch aktuell und sicher gehalten werden.
 
-Regelmäßiges schulen der Entwickler in sicheren Programmiertechniken und aktuellen Bedrohungen.
+### Regelmäßiges schulen der Entwickler in sicheren Programmiertechniken und aktuellen Bedrohungen
+
+Erweiterte Security Awareness Schulung.
 
 Sicherheitsanforderungen definieren
 
-Regelmäßige Sicherheitsüberprüfungen während des gesamten Entwicklungszyklus durchführen
 
 Alle Sicherheitsmaßnahmen gründlich dokumentieren
 
